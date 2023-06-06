@@ -1,1 +1,1 @@
-# spark-scala-cheatsheet
+# spark-scala-examples
